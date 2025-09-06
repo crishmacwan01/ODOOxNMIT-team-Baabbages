@@ -86,24 +86,15 @@ SynergySphere is a **next-generation collaboration platform** built on **Odoo**,
 
 ## 🏗️ System Architecture (High-Level)  
 
-**Frontend:** Odoo Web (custom UI/UX)  
-**Backend:** Odoo ORM + Python modules  
+**Frontend:** ReactJS  
+**Backend:** Express JS, TypeScript
 **Database:** PostgreSQL (native Odoo DB)  
 **AI Layer:** ML/NLP models for summaries, sentiment, scheduling  
 **Integrations:** REST/GraphQL APIs (Slack, Zoom, Google, Jira)  
 
 ---
 
-## 📊 Evaluation Criteria Mapping (for Judges)  
 
-- ✅ **Novelty & Innovation** → AI assistant, predictive analytics, VR/Metaverse features  
-- ✅ **Completeness** → Covers communication, tasks, knowledge, analytics, Odoo integration  
-- ✅ **Scalability** → Works for startups → enterprises  
-- ✅ **User Impact** → Boosts productivity, reduces tool fragmentation, improves engagement  
-- ✅ **Technical Depth** → AI + ERP integration + multi-platform accessibility  
-- ✅ **Security & Compliance** → RBAC, encryption, GDPR/HIPAA-ready  
-
----
 
 ## 📌 Future Scope  
 - AI-powered project documentation generation  
@@ -114,6 +105,6 @@ SynergySphere is a **next-generation collaboration platform** built on **Odoo**,
 ---
 
 ## 👨‍💻 Team  
-Built by **[Your Team Name]** for the **Odoo Hackathon**.  
+Built by BAGBBAGE'S INC for the Odoo Hackathon.  
 
 ---
